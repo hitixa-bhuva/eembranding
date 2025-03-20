@@ -1,0 +1,59 @@
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
+Header always set Content-Security-Policy "upgrade-insecure-requests"
+
+
+# Define custom error pages
+ErrorDocument 404 /error-404.html	
+
+# Rewrite rules for clean URLs
+RewriteRule ^About-Us$ about-us.php [L,NC]
+RewriteRule ^Bliss$ bliss.php [L,NC]
+RewriteRule ^Blogs-Best-Laminate-Catalogue$ blogs-best-laminate-catalogue.php [L,NC]
+RewriteRule ^Blogs-Grow-Your-Business$ blogs-grow-your-business.php [L,NC]
+RewriteRule ^Blogs-Powerful-Branding-Strategies$ blogs-powerful-branding-strategies.php [L,NC]
+RewriteRule ^Category-Blog$ category-blog.php [L,NC]
+RewriteRule ^Creative-Design-Agency$ creative-design-agency.php [L,NC]
+RewriteRule ^Digital-Marketing-Agency$ digital-marketing-agency.php [L,NC]
+RewriteRule ^Evershine-Color-Trendenchanting$ evershine-color-trendenchanting.php [L,NC]
+RewriteRule ^Home$ index.php [L,NC]
+RewriteRule ^Kooyoo-Enchanting$ kooyoo-enchanting.php [L,NC]
+RewriteRule ^Moonshineenchanting$ moonshineenchanting.php [L,NC]
+RewriteRule ^Nelsonlaminates$ Nelsonlaminates.php [L,NC]
+RewriteRule ^Ranberry-Trends$ ranberry-trends.php [L,NC]
+RewriteRule ^Services-Page$ services-page.php [L,NC]
+RewriteRule ^Website-Design$ website-design.php [L,NC]
+RewriteRule ^Advertising-Agency$ advertising-agency.php [L,NC]
+RewriteRule ^Blogs$ blogs.php [L,NC]
+RewriteRule ^Blogs-Branding-Vs-Advertising$ blogs-branding-vs-advertising.php [L,NC]
+RewriteRule ^Blogs-Rendering$ blogs-how-Rendering-3D [L,NC]
+RewriteRule ^Bravio-Pastel-Laminate$ bravio-pastel-laminate.php [L,NC]
+RewriteRule ^Central$ central.php [L,NC]
+RewriteRule ^Crysta-Line$ crysta-line.php [L,NC]
+RewriteRule ^Eco-Woodamaurosis$ eco-woodamaurosis.php [L,NC]
+RewriteRule ^Fabrinobeauty$ fabrinobeauty.php [L,NC]
+RewriteRule ^Keton-Micabeautiful$ keton-micabeautiful.php [L,NC]
+RewriteRule ^Lammartcolor$ lammartcolor.php [L,NC]
+RewriteRule ^Morbi-King$ morbi-king.php [L,NC]
+RewriteRule ^Picsartelegance$ picsartelegance.php [L,NC]
+RewriteRule ^Ranwood-Rega$ ranwood-rega.php [L,NC]
+RewriteRule ^Ui-Ux-Design$ ui-ux-design.php [L,NC]
+RewriteRule ^Rendering-3D$ 3d-rendering.php [L,NC]
+RewriteRule ^Atina$ atina.php [L,NC]
+RewriteRule ^Blogs-2$ blogs-2.php [L,NC]
+RewriteRule ^Blogs-Graphic-Design$ blogs-graphic-design.php [L,NC]
+RewriteRule ^Blogs-Creative-Design-Agency$ blogs-how-a-creative-design-agency.php [L,NC]
+RewriteRule ^Catalogue-Design$ catalogue-design.php [L,NC]
+RewriteRule ^Contact-Us$ contact-us.php [L,NC]
+RewriteRule ^Dazzle-Berryenpastel$ dazzle-berryenpastel.php [L,NC]
+RewriteRule ^Event-Management$ event-management.php [L,NC]
+RewriteRule ^Fabrino-Fabric$ fabrino-fabric.php [L,NC]
+RewriteRule ^Kiana$ kiana.php [L,NC]
+RewriteRule ^Mobile-App-Development$ mobile-app-development.php [L,NC]
+RewriteRule ^Mr-Velvet-Ears$ mr-velvet-ears.php [L,NC]
+RewriteRule ^Portfolio$ Portfolio.php [L,NC]
+RewriteRule ^Vanshlam$ vanshlam.php [L,NC]
+
+
+# RewriteRule ^Natural Sesame Seeds natural-sesame-seeds.php [L]  
