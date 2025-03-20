@@ -441,7 +441,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                         <div
                                                                             class="rt-img-holder tpg-el-image-wrap has-thumbnail">
                                                                             <a data-id="6993"
-                                                                                href="blogs-how-a-Creative-Design-Agency"
+                                                                                href="Blogs-Creative-Design-Agency"
                                                                                 class="tpg-post-link" target="_self">
                                                                                 <img loading="lazy" decoding="async"
                                                                                     src="./assest/img/blogs/5banner-2-1.jpg"
@@ -466,7 +466,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                                 </span>
                                                                             </div>
                                                                             <h3 class="entry-title"><a data-id="6993"
-                                                                                    href="blogs-how-a-Creative-Design-Agency"
+                                                                                    href="Blogs-Creative-Design-Agency"
                                                                                     class="tpg-post-link"
                                                                                     target="_self">How a Creative Design
                                                                                     Agency Can Boost Your Brand’s
@@ -496,7 +496,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             <div class="post-footer">
                                                                                 <div class="read-more">
                                                                                     <a data-id="6993"
-                                                                                        href="blogs-how-a-Creative-Design-Agency"
+                                                                                        href="Blogs-Creative-Design-Agency"
                                                                                         class="tpg-post-link"
                                                                                         target="_self">Read
                                                                                         More.....</a>

@@ -297,7 +297,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
                                 <div class="blog-thumb">
                                     <a
-                                        href="blogs-how-a-Creative-Design-Agency">
+                                        href="Blogs-Creative-Design-Agency">
                                         <img width="1200" height="800"
                                             src="./assest/img/blogs/5banner-2-1.jpg"
                                             class="img-responsive wp-post-image" alt="" decoding="async"> </a>
@@ -315,13 +315,13 @@ include __DIR__ . '/A_Layout/Header/header.php';
 
 
                                             <li class="comments"><i class="far fa-comments"></i> <a
-                                                    href="blogs-how-a-Creative-Design-Agency#respond">No
+                                                    href="Blogs-Creative-Design-Agency#respond">No
                                                     Comments</a></li>
 
                                         </ul>
                                     </div>
                                     <h2 class="title"><a
-                                            href="blogs-how-a-Creative-Design-Agency">How
+                                            href="Blogs-Creative-Design-Agency">How
                                             a Creative Design Agency Can Boost Your Brand’s Digital Presence</a></h2>
                                     <div class="post-text">
                                         <p>How a Creative Design Agency Can Boost Your Brand’s Digital Presence&nbsp; In
@@ -334,7 +334,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <!-- blog btn -->
 
                                     <div class="tg-blog-post-bottom">
-                                        <a href="blogs-how-a-Creative-Design-Agency"
+                                        <a href="Blogs-Creative-Design-Agency"
                                             class="btn">Read More<span></span></a>
                                     </div>
 

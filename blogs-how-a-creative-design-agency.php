@@ -50,7 +50,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                         <ul class="list-wrap p-0 d-flex flex-wrap align-items-center">
                                             <li class="date"><i class="far fa-calendar-alt"></i> February 17, 2025</li>
                                             <li class="comments"><i class="far fa-comments"></i> <a
-                                                    href="blogs-how-a-Creative-Design-Agency#respond">No
+                                                    href="Blogs-Creative-Design-Agency#respond">No
                                                     Comments</a></li>
                                         </ul>
                                     </div>
@@ -383,7 +383,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                 <div id="respond" class="comment-respond">
                                     <h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a
                                                 rel="nofollow" id="cancel-comment-reply-link"
-                                                href="/blogs-how-a-creative-design-agency-can-boost-your-brands-digital-presence/#respond"
+                                                href="/Blogs-Creative-Design-Agency-can-boost-your-brands-digital-presence/#respond"
                                                 style="display:none;">Cancel reply</a></small></h3>
                                     <form action="wp-comments-post.php" method="post"
                                         id="commentform" class="comment-form">

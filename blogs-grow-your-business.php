@@ -296,7 +296,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                     <div class="col-sm-6">
                                         <div class="post prev">
                                             <h4 class="title"><a
-                                                    href="blogs-how-a-Creative-Design-Agency"
+                                                    href="Blogs-Creative-Design-Agency"
                                                     rel="prev">How a Creative Design Agency Can Boost Your Brand’s
                                                     Digital Presence</a> </h4>
                                             <span>Prev Post</span>

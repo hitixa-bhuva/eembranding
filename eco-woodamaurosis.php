@@ -16,7 +16,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                 <div class="row align-items-center">
                     <div class="col-lg-7">
                         <div class="breadcrumb-content-two">
-                            <h1 class="title">Keton <span> MicaBeautiful</span></h1>
+                            <h1 class="title">EcoWoodAmaurosis </h1>
                         </div>
                     </div>
                     <div class="col-lg-5">
@@ -51,8 +51,9 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
                                                     <h2 class="elementor-heading-title elementor-size-default">
-                                                        Keton <br>
-                                                        <span>Bright & Beautiful</span>
+                                                    ECOWOOD
+                                                     <br>
+                                                        <span>Amaurosis</span>
                                                     </h2>
                                                 </div>
                                             </div>
@@ -61,8 +62,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 data-widget_type="heading.default">
                                                 <div class="elementor-widget-container">
                                                     <p class="elementor-heading-title elementor-size-default">
-                                                        Modern and Abstract Elements Incorporated in sleek geometric patterns and fluid shapes to convey a contemporary aesthetic. Use of abstract forms to hint at the versatility and elegance of laminate products. Utilizing various shades of brown to create depth and warmth, evoking a sense of sophistication and natural beauty. Highlight contrasts to add visual interest and draw attention to the title. "Bright and Beautiful" prominently in a stylish, modern font. Integrate subtle gradients or shadows to enhance readability and make the title stand out against the abstract background, reinforcing the theme of elegance and modernity.                                            </div>
-                                            <div class="elementor-element elementor-element-13f087a elementor-widget__width-auto elementor-absolute elementor-hidden-mobile z-index-plus elementor-widget elementor-widget-bg-shapes animated slideInRight"
+                                                    Typography Focus that emphasizes the initials "AT" using bold, brown typography in a modern, sleek font to create a strong focal point on the beige cover. With the title word Amaurosis. Abstract Lines Integrate subtle, flowing abstract lines in brown around the typography to add a sense of movement and sophistication. Geometric Shapes balance the design with various shades of brown to provide structure and visual interest, ensuring they complement the abstract lines and enhance the modern aesthetic.                                            <div class="elementor-element elementor-element-13f087a elementor-widget__width-auto elementor-absolute elementor-hidden-mobile z-index-plus elementor-widget elementor-widget-bg-shapes animated slideInRight"
                                                 data-id="13f087a" data-element_type="widget"
                                                 data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;slideInRight&quot;}"
                                                 data-widget_type="bg-shapes.default">
@@ -175,7 +175,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 data-swiper-slide-index="3" style="width: 390px;">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/ranberry-trends/07-2.jpgg"
+                                                                        src="./assest/img/portfolio/ranberry-trends/07-2.jpg"
                                                                         alt="07"></figure>
                                                             </div>
                                                             <div class="swiper-slide" role="group"

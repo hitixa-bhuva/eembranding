@@ -632,7 +632,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                 <div class="elementor-widget-container">
                                                     <div class="project-area-two">
                                                         <div class="row">
-                                                            <div class="col-lg-4 col-md-6">
+                                                            <!-- <div class="col-lg-4 col-md-6">
                                                                 <div class="project-item-two wow fadeInUp"
                                                                     data-wow-delay=".1s"
                                                                     style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
@@ -643,7 +643,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                             alt="Icon">
                                                                     </a>
                                                                 </div>
-                                                            </div>
+                                                            </div> -->
                                                             <div class="col-lg-4 col-md-6">
                                                                 <div class="project-item-two wow fadeInUp"
                                                                     data-wow-delay=".2s"

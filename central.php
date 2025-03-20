@@ -176,7 +176,7 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                                 data-swiper-slide-index="3" style="width: 390px;">
                                                                 <figure class="swiper-slide-inner"><img decoding="async"
                                                                         class="swiper-slide-image"
-                                                                        src="./assest/img/portfolio/ranberry-trends/07-2.jpgg"
+                                                                        src="./assest/img/portfolio/ranberry-trends/07-2.jpg"
                                                                         alt="07"></figure>
                                                             </div>
                                                             <div class="swiper-slide" role="group"

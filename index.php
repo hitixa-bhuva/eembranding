@@ -725,8 +725,8 @@ include __DIR__ . '/A_Layout/Header/header.php';
                                                             <h6>Our Projects</h6>
                                                         </span>
                                                         <h2 class="title tg-element-title" style="perspective: 400px;">
-                                                            Explore our showcased portfolio to see how we transform
-                                                            creative vision into captivating audio-visual masterpieces.
+                                                            Explore our showcased portfolio to see <br>
+                                                             how we transform creative vision into captivating audio-visual masterpieces.
                                                         </h2>
                                                     </div>
                                                 </div>
